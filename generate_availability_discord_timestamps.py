@@ -4,7 +4,7 @@ from datetime import date, time, datetime, timedelta
 
 FROM_YEAR = 2022
 FROM_MONTH = 11
-FROM_DAY = 19
+FROM_DAY = 5
 TILL_YEAR = 2022
 TILL_MONTH = 12
 TILL_DAY = 17
